@@ -7,7 +7,7 @@ pipeline {
     }
 
     environment {
-        SONAR_HOST_URL = "http://10.80.5.127:9070"
+        SONAR_HOST_URL = "https://v2code.rtwohealthcare.com"
         SONAR_TOKEN = "sqp_ab8a0531672e6c8dee6db9a4b07b15b1ce645049"
     }
 
