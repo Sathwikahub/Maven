@@ -34,7 +34,7 @@ pipeline {
                        mvn clean verify sonar:sonar \
                                  -Dsonar.projectKey=test_v5 \
                                  -Dsonar.projectName='test_v5' \
-                                 -Dsonar.host.url=http://10.80.5.127:9070 \
+                                 -Dsonar.host.url=${SONAR_HOST_URL} \
                                  -Dsonar.token=${SONAR_TOKEN}
 
                     """
