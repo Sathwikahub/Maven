@@ -13,7 +13,7 @@
         <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
          <sonar.host.url>https://v2code.rtwohealthcare.com</sonar.host.url>
-         <sonar.token>sqp_b9c95d8c8334c110a2193cbc9ef7b72b3e707d99</sonar.token>
+         <sonar.token>sqp_ab8a0531672e6c8dee6db9a4b07b15b1ce645049</sonar.token>
 
     </properties>
 
